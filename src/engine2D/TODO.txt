@@ -1,0 +1,14 @@
+Stuff to do for the recent times:
+
+-Finishing axis-aligned box colliding system
+-Angular impulse (entity rotation)
+-GUI
+-Improve collsions with spacial tree.
+
+Notes:
+-------------------------------------------------------------------------------------------------------------
+	Fix the friction ?
+	Moment of inertia: if used , use an already calculated for specific objects for a close result.
+	Box colliding system: Try the tutorial & by yourself
+	Angular impulse: Try the tutorial & by yourself
+	DONT FORGET: Number of manifolds&Entities is in the console.
